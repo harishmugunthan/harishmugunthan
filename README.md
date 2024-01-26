@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack**
 
-- 📫 How to reach me **harishmugunthan@techie.com**
+- 📫 How to reach me **harishmugunthanm@outlook.com**
 
 - ⚡ Fun fact **I am funny**
 
