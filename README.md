@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harish mugunthan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishmugunthan&label=Profile%20views&color=0e75b6&style=flat" alt="harishmugunthan" /> </p>
 
 - 🔭 I’m currently working on **MERN Development**
 
-- 🌱 I’m currently learning **Full stack**
+- 🌱 I’m currently intrested in creating **Full stack web applications**
 
-- 📫 How to reach me **harishmugunthanm@outlook.com**
+- 📫 How to reach me **harishmugunthann@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
